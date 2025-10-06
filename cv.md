@@ -40,3 +40,9 @@ markup, and applying the BEM methodology.
 
 - RS School 
 
+
+### Languages
+
+- Russin (native)
+- English (full professional proficiency)
+
