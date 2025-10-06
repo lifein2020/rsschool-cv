@@ -16,10 +16,12 @@ approaches and best practices by attending conferences, meetups (Yandex, Alfa Ba
 Tech Night), and staying connected with professional communities and learning platforms
 such as RS School.
 
+
 ### Stack
 My core technologies include JavaScript (ES6+), React.js, HTML5, CSS3, SCSS,
 Webpack, Git, and Figma. I am confident in adaptive and cross-browser layout, semantic
 markup, and applying the BEM methodology.
+
 
 ### My projects
 
@@ -28,3 +30,13 @@ markup, and applying the BEM methodology.
 
 + App for sharing photos (flexbox, grid, BEM, JavaScript, Webpack):
 [Mesto JS](https://github.com/lifein2020/mesto?tab=readme-ov-file)
+
+
+### Education
+
+- Moscow State Industrial University (MSIU) - Master's Degree in Engineering
+
+- Yandex Practicum - Web Development
+
+- RS School 
+
