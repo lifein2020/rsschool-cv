@@ -20,3 +20,11 @@ such as RS School.
 My core technologies include JavaScript (ES6+), React.js, HTML5, CSS3, SCSS,
 Webpack, Git, and Figma. I am confident in adaptive and cross-browser layout, semantic
 markup, and applying the BEM methodology.
+
+### My projects
+
++ React.js app with authentication (flexbox, grid, BEM):
+[Mesto React](https://github.com/lifein2020/react-mesto-auth)
+
++ App for sharing photos (flexbox, grid, BEM, JavaScript, Webpack):
+[Mesto JS](https://github.com/lifein2020/mesto?tab=readme-ov-file)
