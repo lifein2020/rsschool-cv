@@ -1,12 +1,12 @@
 # CV 
 ## Svetlana Zhivtsova
 
-****
-Cyprus
-sv.zhivtsova@gmail.com
-+357 94624493
-@SvetlanaZhivtsova
-****
+
+* Cyprus
+* sv.zhivtsova@gmail.com
+* +357 94624493
+* @SvetlanaZhivtsova
+
 
 ### Summary
 
